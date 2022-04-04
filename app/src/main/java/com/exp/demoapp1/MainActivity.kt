@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //nest cahnge
-        var temp: String="8"
+        var temp: String="8"MainActivity
+
+
     }
 }
